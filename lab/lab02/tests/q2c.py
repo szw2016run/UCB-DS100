@@ -2,21 +2,21 @@ test = {   'name': 'q2c',
     'points': 1,
     'suites': [   {   'cases': [   {   'code': '>>> '
                                                'count_for_names["Michael"]\n'
-                                               '429827',
+                                               '431204',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> '
                                                'count_for_names[:100].sum()\n'
-                                               '95519',
+                                               '97322',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> count_for_names["David"]\n'
-                                               '371646',
+                                               '373116',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> '
                                                'count_for_names[:1000].sum()\n'
-                                               '1320144',
+                                               '1344223',
                                        'hidden': False,
                                        'locked': False}],
                       'scored': True,

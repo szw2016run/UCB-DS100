@@ -2,22 +2,22 @@ test = {   'name': 'q2d',
     'points': 1,
     'suites': [   {   'cases': [   {   'code': '>>> '
                                                'female_name_count["Emily"]\n'
-                                               '48093',
+                                               '49605',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> '
                                                'female_name_count[:100].sum()\n'
-                                               '48596',
+                                               '51322',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> '
                                                'female_name_count["Isabella"]\n'
-                                               '45232',
+                                               '47447',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> '
                                                'female_name_count[:10000].sum()\n'
-                                               '3914766',
+                                               '4104589',
                                        'hidden': False,
                                        'locked': False}],
                       'scored': True,

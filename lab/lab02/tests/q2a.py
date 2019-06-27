@@ -4,12 +4,7 @@ test = {   'name': 'q2a',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> sorted(genre_list)\n'
-                                               "['Action & Adventure',\n"
-                                               " 'Animation',\n"
-                                               " 'Comedy',\n"
-                                               " 'Drama',\n"
-                                               " 'Horror',\n"
-                                               " 'Science Fiction & Fantasy']",
+                                               "['Action & Adventure', 'Animation', 'Comedy', 'Drama', 'Horror', 'Science Fiction & Fantasy']",
                                        'hidden': False,
                                        'locked': False}],
                       'scored': True,

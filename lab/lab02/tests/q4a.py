@@ -1,7 +1,7 @@
 test = {   'name': 'q4a',
     'points': 1,
     'suites': [   {   'cases': [   {   'code': ">>> merged_df.loc[0, 'Count']\n"
-                                               '371646',
+                                               '373116',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': ">>> merged_df.loc[3, 'Count']\n"
@@ -9,11 +9,11 @@ test = {   'name': 'q4a',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': ">>> merged_df.loc[7, 'Count']\n"
-                                               '7236',
+                                               '7237',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': ">>> merged_df['Count'].sum()\n"
-                                               '861694',
+                                               '865131',
                                        'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> len(merged_df)\n14',
